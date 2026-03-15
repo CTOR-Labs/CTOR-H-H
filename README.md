@@ -1,5 +1,5 @@
-# CTOR-H2H
-CTOR‑H2H — Official Human‑vs‑Human Reference Implementation
+# CTOR-H-H
+CTOR‑H-H — Official Human‑vs‑Human Reference Implementation
 CTOR‑H2H is the canonical reference implementation of CTOR for human‑versus‑human play.
 This repository defines the official ruleset, move‑validation engine, match structure, and baseline tools used for competitive CTOR sessions across the CTOR‑Federation ecosystem.
 
