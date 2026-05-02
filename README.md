@@ -1,34 +1,15 @@
 # CTOR-H-H
 CTOR‑H-H — Official Human‑vs‑Human Reference Implementation
-CTOR‑H-H is the canonical reference implementation of CTOR for human‑versus‑human play.
 This repository defines the official ruleset, move‑validation engine, match structure, and baseline tools used for competitive CTOR sessions across the CTOR‑Federation ecosystem.
 
 # OFFICIAL CTOR RULES (May, 2026)
 
 (https://github.com/CTOR-Labs/CTOR-H-AI/blob/main/mvp/CTOR-Rules.md)
 
-Development Background
-The initial version of CTOR‑H2H was originally implemented as a local two‑player game using HTML, CSS, and JavaScript.
-It was tested directly on the author’s computer and included three core operations from the official CTOR ruleset:
-
-Put — placing two new chips
-Move — moving two an existing chips
-Replace — replacing two own chips to one own chip
 Long‑Term Vision
 The ultimate goal of CTOR‑H2H is to evolve into a full online platform comparable to established Go and Chess servers, enabling both amateur and professional CTOR players to compete, study games, and participate in official tournaments.
 
-Repository Structure
-/src — core implementation (H2H_Comet_Base) /tests — validation and correctness tests /docs — specifications, diagrams, and protocol descriptions /examples — sample matches and usage examples /roadmap — development plans and release notes
-
-Standards Alignment
-This implementation follows the official CTOR Standards:
-
-CTOR‑S‑0001 — Core Rules
-CTOR‑S‑0002 — Digital Move Protocol
-CTOR‑S‑0003 — Tournament Rules
-All updates to this repository must remain compliant with federation‑approved specifications.
-
-Development Goals
+#Development Goals
 Maintain architectural purity and reproducibility
 Provide a stable foundation for competitive CTOR events
 Support integration with future CTOR platforms
@@ -37,6 +18,14 @@ License and Trademark
 This project is released under the MIT License.
 CTOR is a registered trademark; see the NOTICE file for details.
 
-Status
-Version: v1.0.0 (in preparation)
-This release will include the complete H2H_Comet_Base implementation and full documentation.
+#Status
+Currently (May 2026), we do not plan to develop a gaming platform like this ourselves (www.chess.com)
+
+We offer independent studios:
+
+1. Grant you a license to launch software development for such a platform. Terms are negotiable and very reasonable.
+
+2. Provide ongoing support with our online resources and in-person consultations on launching such a platform on your premises.
+
+3. We are ready to discuss royalties for the initial commercial license and receive them once the platform becomes commercially successful.
+
