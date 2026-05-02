@@ -3,6 +3,10 @@ CTOR‑H-H — Official Human‑vs‑Human Reference Implementation
 CTOR‑H-H is the canonical reference implementation of CTOR for human‑versus‑human play.
 This repository defines the official ruleset, move‑validation engine, match structure, and baseline tools used for competitive CTOR sessions across the CTOR‑Federation ecosystem.
 
+# OFFICIAL CTOR RULES (May, 2026)
+
+(https://github.com/CTOR-Labs/CTOR-H-AI/blob/main/mvp/CTOR-Rules.md)
+
 Development Background
 The initial version of CTOR‑H2H was originally implemented as a local two‑player game using HTML, CSS, and JavaScript.
 It was tested directly on the author’s computer and included three core operations from the official CTOR ruleset:
