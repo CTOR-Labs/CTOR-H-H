@@ -32,3 +32,5 @@ We offer independent studios:
 
 3. We are ready to discuss royalties for the initial commercial license and receive them once the platform becomes commercially successful.
 
+# Please fill out the form at the end of this page:
+(https://ctorgame.com/science%26education)
