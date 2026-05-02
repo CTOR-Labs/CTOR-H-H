@@ -9,7 +9,8 @@ This repository defines the official ruleset, move‑validation engine, match st
 Long‑Term Vision
 The ultimate goal of CTOR‑H2H is to evolve into a full online platform comparable to established Go and Chess servers, enabling both amateur and professional CTOR players to compete, study games, and participate in official tournaments.
 
-#Development Goals
+# DEVELOPMENT GOAL
+
 Maintain architectural purity and reproducibility
 Provide a stable foundation for competitive CTOR events
 Support integration with future CTOR platforms
@@ -18,7 +19,8 @@ License and Trademark
 This project is released under the MIT License.
 CTOR is a registered trademark; see the NOTICE file for details.
 
-#Status
+# STATUS
+
 Currently (May 2026), we do not plan to develop a gaming platform like this ourselves (www.chess.com)
 
 We offer independent studios:
