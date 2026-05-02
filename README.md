@@ -21,7 +21,8 @@ CTOR is a registered trademark; see the NOTICE file for details.
 
 # STATUS
 
-Currently (May 2026), we do not plan to develop a gaming platform like this ourselves (www.chess.com)
+Currently (May 2026), we do not plan to develop a gaming platform like this ourselves 
+(www.chess.com)  or (https://gomagic.org/)
 
 We offer independent studios:
 
